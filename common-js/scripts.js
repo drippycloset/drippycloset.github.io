@@ -12,7 +12,7 @@
 
 	//ROUNDED TIMES COUNTDOWN
 
-  var countDownDate = new Date("Dec 1, 2020 00:00:00").getTime();
+  var countDownDate = new Date("Dec 1, 2020 18:00:00").getTime();
   // Get today's date and time
   var now = new Date().getTime();
   // Find the distance between now and the count down date
